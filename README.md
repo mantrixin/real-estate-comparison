@@ -84,397 +84,58 @@ The Indian digital real estate market, valued at $12.4 billion in 2024, is domin
 
 ## 1. Buyers / Renters Comparison
 
-|
-Feature
-|
-99acres
-|
-Magicbricks
-|
-Housing.com
-|
-Why it Exists
-|
-| --- | --- | --- | --- | --- |
-|
-Verified Listings
-|
-Yes
-|
-Yes
-|
-Yes
-|
-To reduce fraud and build user trust with
-authentic property data.
-|
-|
-Direct Owner/Builder Deals
-|
-Yes
-|
-Yes
-|
-Limited
-|
-To cut brokerage costs and attract
-price-conscious buyers/tenants.
-|
-|
-Locality Insights
-|
-Reviews, price trends
-|
-Reviews, Prop Index
-|
-Child Friendliness Index, lifestyle
-ratings
-|
-To help users evaluate quality of life,
-safety, and growth beyond just price.
-|
-|
-Map View & Tools
-|
-Standard map view
-|
-Standard map view
-|
-Interactive, layered maps
-|
-To make property discovery visual and
-speed up decision-making.
-|
-|
-3D Tours / AR/VR
-|
-Limited
-|
-Limited pilots
-|
-Limited pilots
-|
-To act as a marketing differentiator and
-attract tech-savvy users.
-|
-|
-AI Chatbots / Personalization
-|
-Early pilots
-|
-Testing personalization
-|
-Early AI assistant
-|
-To reduce response time and feel like a
-personal property guide.
-|
-|
-Market Reports & Indices
-|
-Basic trends
-|
-Prop Index, rich data
-|
-Limited insights
-|
-To establish authority with serious
-buyers/investors and retain them.
-|
-|
-User Reviews / Ratings
-|
-Limited
-|
-Yes
-|
-Yes
-|
-To enable peer validation and strengthen
-trust in decisions.
-|
-|
-Zero Brokerage
-|
-No
-|
-No
-|
-No
-|
-Still missing; would solve India’s
-biggest pain point of hidden costs & distrust.
-|
-|
-Future AI Plans
-|
-Exploring recommendations
-|
-AI valuation & personalization
-|
-AI chat & insights
-|
-To predict prices, detect fraud, and
-deliver smarter, reliable experiences.
-|
-| Mobile Apps | Yes | Yes | Yes | |
-
----
+| Feature                  | 99acres              | Magicbricks                  | Housing.com                              | Why it Exists                                                                 |
+|---------------------------|----------------------|------------------------------|-------------------------------------------|-------------------------------------------------------------------------------|
+| Verified Listings         | Yes                  | Yes                          | Yes                                       | To reduce fraud and build user trust with authentic property data.            |
+| Direct Owner/Builder Deals| Yes                  | Yes                          | Limited                                   | To cut brokerage costs and attract price-conscious buyers/tenants.            |
+| Locality Insights         | Reviews, price trends| Reviews, Prop Index          | Child Friendliness Index, lifestyle ratings| To help users evaluate quality of life, safety, and growth beyond just price. |
+| Map View & Tools          | Standard map view    | Standard map view            | Interactive, layered maps                 | To make property discovery visual and speed up decision-making.               |
+| 3D Tours / AR/VR          | Limited              | Limited pilots               | Limited pilots                            | To act as a marketing differentiator and attract tech-savvy users.            |
+| AI Chatbots / Personalization | Early pilots     | Testing personalization      | Early AI assistant                        | To reduce response time and feel like a personal property guide.              |
+| Market Reports & Indices  | Basic trends         | Prop Index, rich data        | Limited insights                          | To establish authority with serious buyers/investors and retain them.         |
+| User Reviews / Ratings    | Limited              | Yes                          | Yes                                       | To enable peer validation and strengthen trust in decisions.                  |
+| Zero Brokerage            | No                   | No                           | No                                        | Still missing; would solve India’s biggest pain point of hidden costs & distrust. |
+| Future AI Plans           | Exploring recommendations | AI valuation & personalization | AI chat & insights                      | To predict prices, detect fraud, and deliver smarter, reliable experiences.   |
+| Mobile Apps               | Yes                  | Yes                          | Yes                                       |                                                                               |
 
 ## 2. Sellers / Property Owners Comparison
 
-|
-Feature
-|
-99acres
-|
-Magicbricks
-|
-Housing.com
-|
-Why it Exists
-|
-| --- | --- | --- | --- | --- |
-|
-Listing Dashboard
-|
-Yes (basic + paid)
-|
-Yes (basic + paid)
-|
-Yes (basic + paid)
-|
-To give owners full control of their
-listings and increase engagement.
-|
-|
-Lead Management
-|
-Yes
-|
-Yes (real-time via CRM)
-|
-Yes (retargeting + CRM)
-|
-To capture and convert buyer interest
-quickly, ensuring faster sales.
-|
-|
-Marketing Tools
-|
-Featured ads, subscriptions
-|
-Advice + ads + site visit mgmt
-|
-Retargeting + featured ads
-|
-To maximize property visibility in a
-crowded marketplace.
-|
-|
-On-ground Verification
-|
-No
-|
-Limited (via partners)
-|
-Yes (multi-city coverage)
-|
-To prove authenticity and reduce
-fake/duplicate listings.
-|
-|
-Owner Assistance Services
-|
-Limited
-|
-Site-visit assistance
-|
-Advanced builder/owner support
-|
-To simplify property selling for
-non-technical or first-time sellers.
-|
-|
-Performance Analytics
-|
-Limited
-|
-Advanced reporting
-|
-Retargeting + campaign analytics
-|
-To measure ROI on ads and optimize
-property visibility.
-|
+| Feature                  | 99acres                  | Magicbricks                    | Housing.com                           | Why it Exists                                                                 |
+|---------------------------|--------------------------|--------------------------------|----------------------------------------|-------------------------------------------------------------------------------|
+| Listing Dashboard         | Yes (basic + paid)       | Yes (basic + paid)             | Yes (basic + paid)                     | To give owners full control of their listings and increase engagement.        |
+| Lead Management           | Yes                      | Yes (real-time via CRM)        | Yes (retargeting + CRM)                | To capture and convert buyer interest quickly, ensuring faster sales.         |
+| Marketing Tools           | Featured ads, subscriptions | Advice + ads + site visit mgmt | Retargeting + featured ads             | To maximize property visibility in a crowded marketplace.                      |
+| On-ground Verification    | No                       | Limited (via partners)         | Yes (multi-city coverage)              | To prove authenticity and reduce fake/duplicate listings.                     |
+| Owner Assistance Services | Limited                  | Site-visit assistance          | Advanced builder/owner support          | To simplify property selling for non-technical or first-time sellers.         |
+| Performance Analytics     | Limited                  | Advanced reporting             | Retargeting + campaign analytics        | To measure ROI on ads and optimize property visibility.                       |
 
 ---
 
 ## 3. Agents / Brokers Comparison
 
-|
-Feature
-|
-99acres
-|
-Magicbricks
-|
-Housing.com
-|
-Why it Exists
-|
-| --- | --- | --- | --- | --- |
-|
-Agent Discovery
-|
-Yes (detailed profiles)
-|
-Yes (search + shortlist)
-|
-Yes (verified agents)
-|
-To increase transparency and build buyer
-trust in brokers.
-|
-|
-Lead Management Tools
-|
-CRM + Assist services
-|
-AI-powered READPRO CRM
-|
-Retargeting + CRM
-|
-To ensure no potential lead is missed and
-boost agent productivity.
-|
-|
-Marketing Tools
-|
-Featured ads, BOSS solutions
-|
-Ads + PropViz + site mgmt
-|
-Retargeting + premium listings
-|
-To help brokers stand out in a
-high-competition market.
-|
-|
-Verification of Agents
-|
-Basic
-|
-Limited
-|
-Strong verification
-|
-To filter genuine brokers and prevent
-scams.
-|
-|
-Training/Support
-|
-Limited
-|
-Workshops + tools
-|
-Limited
-|
-To professionalize brokers and increase
-loyalty to the platform.
-|
-|
-Analytics
-|
-Campaign tracking
-|
-Performance analytics
-|
-Retargeting metrics
-|
-To help agents spend effectively and see
-ROI clearly.
-|
+| Feature                | 99acres                  | Magicbricks                   | Housing.com                       | Why it Exists                                                                 |
+|-------------------------|--------------------------|-------------------------------|------------------------------------|-------------------------------------------------------------------------------|
+| Agent Discovery         | Yes (detailed profiles)  | Yes (search + shortlist)      | Yes (verified agents)              | To increase transparency and build buyer trust in brokers.                    |
+| Lead Management Tools   | CRM + Assist services    | AI-powered READPRO CRM        | Retargeting + CRM                  | To ensure no potential lead is missed and boost agent productivity.           |
+| Marketing Tools         | Featured ads, BOSS solutions | Ads + PropViz + site mgmt   | Retargeting + premium listings     | To help brokers stand out in a high-competition market.                        |
+| Verification of Agents  | Basic                    | Limited                       | Strong verification                | To filter genuine brokers and prevent scams.                                  |
+| Training/Support        | Limited                  | Workshops + tools             | Limited                            | To professionalize brokers and increase loyalty to the platform.              |
+| Analytics               | Campaign tracking        | Performance analytics         | Retargeting metrics                | To help agents spend effectively and see ROI clearly.                         |
+
 
 ---
 
 ## 4. Platform / Admin Comparison
 
-|
-Feature
-|
-99acres
-|
-Magicbricks
-|
-Housing.com
-|
-Why it Exists
-|
-| --- | --- | --- | --- | --- |
-| Community/Forums | Buyer forums | Limited locality reviews | None | To create engagement loops and boost retention.
-|
-|
-Locality Insights
-|
-Price trends, reviews
-|
-Reviews, Prop Index
-|
-Lifestyle ratings, CFI
-|
-To empower users with holistic
-decision-making tools.
-|
-|
-Transparency
-|
-Basic verified data
-|
-Ratings + reviews
-|
-On-ground verification + analytics
-|
-To improve trust and credibility at
-scale.
-|
-|
-User Experience
-|
-Functional
-|
-Functional
-|
-Modern UX (visuals, 3D)
-|
-To reduce bounce rate and increase
-conversions.
-|
-|
-Data Analytics
-|
-Limited
-|
-Rich indices (Prop Index)
-|
-Lifestyle + CFI data
-|
-To position as knowledge leaders in real
-estate.
-|
-|
-Future AI Plans
-|
-Early pilots
-|
-AI valuation + predictions
-|
-AI chat + insights
-|
-To future-proof platforms and scale
-personalization.
-|
+| Feature          | 99acres                  | Magicbricks                  | Housing.com                         | Why it Exists                                                                 |
+|------------------|--------------------------|------------------------------|--------------------------------------|-------------------------------------------------------------------------------|
+| Community/Forums | Buyer forums             | Limited locality reviews     | None                                | To create engagement loops and boost retention.                               |
+| Locality Insights| Price trends, reviews    | Reviews, Prop Index          | Lifestyle ratings, CFI               | To empower users with holistic decision-making tools.                         |
+| Transparency     | Basic verified data      | Ratings + reviews            | On-ground verification + analytics   | To improve trust and credibility at scale.                                    |
+| User Experience  | Functional               | Functional                   | Modern UX (visuals, 3D)              | To reduce bounce rate and increase conversions.                               |
+| Data Analytics   | Limited                  | Rich indices (Prop Index)    | Lifestyle + CFI data                 | To position as knowledge leaders in real estate.                              |
+| Future AI Plans  | Early pilots             | AI valuation + predictions   | AI chat + insights                   | To future-proof platforms and scale personalization.                          |
+
 
 ---
 
